@@ -1,0 +1,5 @@
+Personel ID	--Ad	--Soyad	--Cinsiyet	--Görev	--Maaş	--Eposta	--Telefon       
+6009	--Altay               	--Gokmen              	--True	--Admin	--10,0000	--a	--10
+6010	--beyza               	--aa                  	--False	--Resepsiyonist	--10,0000	--s	--10
+7006	--Ahmet               	--Yılmaz              	--True	--Muhasebe	--5000,0000	--ahmet@email.com	--555-1234
+7007	--Ahmet               	--Yılmaz              	--True	--Muhasebe	--5000,0000	--ahmet@email.com	--555-1234
